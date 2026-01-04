@@ -1,0 +1,36 @@
+{
+    "WBUI2": {
+        "settings": {
+            "openbutton": 4,
+            "hideicon": true,
+            "hideiconafter": 60,
+            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+            "disableicontext": false,
+            "iconposition": 0,
+            "icontextcolor": 0,
+            "openonstart": true,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 12
+        },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "Welcome",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "KMserver",
+                        "text": "Hello everyone \n\n\nI hope you have a good time in our server\n\nOur laws\n1- You must respect others\n2- I am not responsible for the actions of others\n3- The administrator will not compensate you when you lose your items because of other players or because of the game\n4- Do not requst setting change \n5- there will be streming and recording on this server"
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "text": "Discord",
+                "url": "https://discord.gg/TfM297ZuA9"
+            }
+        ],
+        "version": 2
+    }
+}
